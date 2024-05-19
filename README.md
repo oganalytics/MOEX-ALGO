@@ -1407,3 +1407,10 @@ Configuration has been migrated.
 $ pre-commit run flake8 --all-files
 flake8...................................................................Passed
 ```
+
+## Authors
+* [@kde2podfreebsd](https://github.com/kde2podfreebsd)
+* [@deraswer](https://github.com/deraswer)
+* [@complicat9d](https://github.com/complicat9d)
+* [@BychkovArthur](https://github.com/BychkovArthur)
+* [@oganalytics](https://github.com/oganalytics)
